@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919335862380",
+    "project_id": "takehome-quiz-243e7",
+    "storage_bucket": "takehome-quiz-243e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919335862380:android:159c71d9a29ff811c9d849",
+        "android_client_info": {
+          "package_name": "com.example.take_home_quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOaAFsYExoQUEyfcf4L-AhM_NUg8_tke0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
